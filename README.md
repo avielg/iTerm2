@@ -1,3 +1,8 @@
+### Changes From Original Repo
+ - Removed window title
+ - Added padding (32 horizontal, 24 vertical)
+ - WIP: Drag the title-less window...
+
 This site hosts code for <a href="https://iterm2.com">iTerm2</a>.
 
 [![Build Status](https://travis-ci.org/gnachman/iTerm2.svg?branch=master)](https://travis-ci.org/gnachman/iTerm2)
